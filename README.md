@@ -1,8 +1,4 @@
 
-# 김소담
-  
-안녕하세요 프론트엔드 개발자 김소담입니다.
-
 <h3 align="center">  Tech Stack </h3>
 
 <p align="center">
